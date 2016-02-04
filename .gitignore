@@ -2,7 +2,8 @@ pixiecore
 example/example
 example/debian/*
 .vagrant
-
+autoinstallers/nohup.out
+autoinstallers/httpsupplements/goserve.log
 autoinstallers/rancheros/nohup.out
 autoinstallers/rancheros/vmlinuz
 autoinstallers/debian/linux
