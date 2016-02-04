@@ -3,3 +3,11 @@ example/example
 example/debian/*
 .vagrant
 
+autoinstallers/rancheros/nohup.out
+autoinstallers/rancheros/vmlinuz
+autoinstallers/debian/linux
+example/linux.1
+example/initrd.gz
+example/linux
+example/initrd.gz.1
+autoinstallers/rancheros/initrd
